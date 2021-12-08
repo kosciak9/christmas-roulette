@@ -8,11 +8,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.7.2",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "framer-motion": "^4",
+    "lodash": "^4.17.21",
     "next": "12.0.7",
+    "ntcjs": "^1.1.2",
+    "prettier": "^2.5.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-custom-roulette": "^1.1.8",
+    "react-dom": "17.0.2",
+    "react-snowfall": "^1.1.1"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.177",
     "@types/node": "16.11.12",
     "@types/react": "17.0.37",
     "eslint": "8.4.1",
